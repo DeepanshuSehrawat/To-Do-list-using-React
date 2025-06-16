@@ -19,7 +19,8 @@ Add, delete, mark tasks as complete, sort by date, filter tasks, and persist dat
 
 ## 📸 Demo
 
-![todo-demo](https://user-images.githubusercontent.com/your-gif-or-image-link.gif)
+![image](https://github.com/user-attachments/assets/040ea783-408c-4eed-adb2-ca4ae103fe2d)
+
 
 ---
 
